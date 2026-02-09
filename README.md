@@ -1,4 +1,5 @@
 PCA: Financial Inclusion in East Africa.
+
 What is this?
 This project is a deep dive into who has access to banking in Kenya, Rwanda, Tanzania, and Uganda. I used Principal Component Analysis (PCA) to take a complex list of 33 demographic features and boil them down to the ones that actually matter.
 
